@@ -27,7 +27,7 @@ gem 'pry', '~> 0.14.0'
   # https://rubygems.org/gems/pry | RubyGems
   # Irb の上位互換にあたるディベロッパーコンソール
 
-gem 'puma', '~> 5.2', '>= 5.2.2'
+gem 'puma', '~> 5.3'
   # https://rubygems.org/gems/puma | RubyGems
   # Ruby アプリケーションのために開発環境と本番環境で使用できる Web サーバ
 
